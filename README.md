@@ -1,5 +1,4 @@
 # Node.js MongoDB CRUD Blog App
-[Website](https://89127.stu.sd-lab.nl/mvc/)
 
 Dit project is gemaakt als onderdeel van een schoolopdracht waarbij we een simpele CRUD (Create, Read, Update, Delete) blog applicatie hebben ontwikkeld met behulp van Node.js, MongoDB en Express. Hieronder vind je een korte beschrijving van de structuur en functionaliteit van dit project:
 
